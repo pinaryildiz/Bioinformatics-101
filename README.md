@@ -55,4 +55,4 @@ Happy coding!
 ---
 
 **Author:** Pınar Yıldız  
-**GitHub:** [yourusername](https://github.com/pinaryildiz)
+**GitHub:** [pinaryildiz](https://github.com/pinaryildiz)
